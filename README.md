@@ -2,7 +2,7 @@
 
 [![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 [![rank](https://make.fun/badge/best-cooking-game-20261125-0137/singohitam22/make-fun-best-cooking-game-20261125/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
-[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/singohitam22/best-cooking-game-20261125/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/singohitam22/make-fun-best-cooking-game-20261125/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 **The Cracked Yolk** — a complete original 2D cooking game for the make.fun bounty "Make the best cooking game". You run a tiny diner kitchen: read the order board, build each dish ingredient by ingredient on the plate, and ring the serve bell before the customer's patience runs out. Six original dishes, twelve ingredients, a 3-minute shift, three hearts, and a rush that grows as you serve more.
 
